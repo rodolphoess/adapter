@@ -4,4 +4,4 @@ Implementação do padrão de projeto adapter baseado no artigo https://www.thie
 
 Quando usar?
 
-- 
+- É utilizado quando é necessário trabalhar com classes distintas respondendo a uma mesma interface.
