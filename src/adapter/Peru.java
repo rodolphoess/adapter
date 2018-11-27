@@ -1,8 +1,8 @@
 package adapter;
 
-public interface Pato {
+public interface Peru {
 
-	public void grasnar();
+	public void soar();
 	
 	public void voar();
 }
